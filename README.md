@@ -30,8 +30,7 @@ HCStore - Shoes Shop
     + Kiểm tra số lượng sản phẩm
     
     + Nhập mã khuyến mại để được giảm giá đơn hàng
-    
-    +Nhập số lượng mua hàng
+
     
   - Phần quản trị:
 
